@@ -18,8 +18,6 @@
 ---
 
 ## 📌 Repositórios em Destaque  
-🔹 [Sistematizacao_POO](https://github.com/kauaftavares21/Sistematizacao_POO) - Programação orientada a objetos  
-🔹 [CursoemVideo_JS](https://github.com/kauaftavares21/CursoemVideo_JS) - Projetos e exercícios em JavaScript  
 🔹 [ProjetoRefrI_JS](https://github.com/kauaftavares21/ProjetoRefrI_JS) - Estilização e estruturação com CSS  
 🔹 [Gateway_Pagamento](https://github.com/kauaftavares21/Gateway_Pagamento) - Implementação de gateway de pagamento  
 🔹 [Jogo-NumeroSecreto](https://github.com/kauaftavares21/Jogo-NumeroSecreto) - Jogo interativo em HTML, CSS e JS  
