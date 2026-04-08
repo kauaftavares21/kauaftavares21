@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Contato  
-📧 **Email**: [21kaufernandes@email.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+📧 **Email**: [21kaufernandes@email.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)    
 🔗 **LinkedIn**: [Kauã Fernandes](https://www.linkedin.com/in/kauã-fernandes-809665252/)  
 📷 **Instagram**: [@kauafernandes21](https://www.instagram.com/kauafernandes21/)  
 🐙 **GitHub**: [kauaftavares21](https://github.com/kauaftavares21)  
