@@ -1,38 +1,174 @@
-# 👋 Olá, eu sou Kauã Tavares!
+# 👋 Olá! Eu sou Kauã Fernandes de Abreu Tavares
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)  
-💻 Desenvolvedor Web em formação  
-🚀 Explorando **HTML, CSS, JavaScript** e frameworks como **React, Bootstrap e Vue.js**  
-
----
-
-## 🛠️ Tecnologias & Ferramentas  
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-</div>
+<p align="left">
+🎯 Analista de Projetos & Produtos em formação <br>
+💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+📊 Apaixonado por tecnologia, dados, automação e melhoria de processos.
+</p>
 
 ---
 
-## 📌 Repositórios em Destaque  
-🔹 [ProjetoRefrI_JS](https://github.com/kauaftavares21/ProjetoRefrI_JS) - Estilização e estruturação com CSS  
-🔹 [Gateway_Pagamento](https://github.com/kauaftavares21/Gateway_Pagamento) - Implementação de gateway de pagamento  
-🔹 [Jogo-NumeroSecreto](https://github.com/kauaftavares21/Jogo-NumeroSecreto) - Jogo interativo em HTML, CSS e JS  
+## 🚀 Sobre mim
 
-📌 Veja todos os meus projetos [aqui](https://github.com/kauaftavares21?tab=repositories).
+Atualmente atuo na área de Projetos, Produtos e Tecnologia, participando da gestão de backlog, levantamento de requisitos, documentação funcional, análise de dados e desenvolvimento de automações utilizando Python, SQL e Power BI.
 
----
-
-## 📫 Contato  
-📧 **Email**: [21kaufernandes@email.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)    
-🔗 **LinkedIn**: [Kauã Fernandes](https://www.linkedin.com/in/kauã-fernandes-809665252/)  
-📷 **Instagram**: [@kauafernandes21](https://www.instagram.com/kauafernandes21/)  
-🐙 **GitHub**: [kauaftavares21](https://github.com/kauaftavares21)  
+Tenho interesse em transformar problemas de negócio em soluções digitais eficientes através de metodologias ágeis, dados e tecnologia.
 
 ---
 
-🚀 Sempre buscando aprender e evoluir na área de desenvolvimento web!  
-⭐ Se gostou dos meus projetos, não esqueça de dar um **star** nos repositórios!
+## 💼 Experiência
+
+**Bcodex**
+> Estagiário de Gestão de Projetos & Produtos
+
+- Gestão e priorização de Backlog (Jira)
+- Levantamento de requisitos
+- Documentação funcional
+- Gestão de demandas
+- Dashboards em Power BI
+- SQL
+- Python para automações
+- Scrum e Kanban
+- Monitoramento de indicadores
+- Relacionamento com clientes e stakeholders
+
+---
+
+# 🛠 Tecnologias
+
+### Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,mysql" />
+</p>
+
+### Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+Power BI • SQL • ETL • Excel
+
+### Gestão
+
+- Jira
+- Notion
+- Scrum
+- Kanban
+- Product Backlog
+- Levantamento de Requisitos
+- Documentação Funcional
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+# 📌 Projetos
+
+## 🚀 Automação de Conciliação Financeira
+
+Automação em Python + SQL para integrar diferentes bases de dados e reduzir inconsistências em processos financeiros.
+
+**Stack**
+
+- Python
+- SQL
+- Automação
+- ETL
+
+---
+
+## 📊 Dashboard Executivo
+
+Dashboard em Power BI para acompanhamento de KPIs estratégicos.
+
+**Stack**
+
+- Power BI
+- SQL
+- Excel
+
+---
+
+## 📈 Pipeline ETL
+
+Pipeline para extração, transformação e carga de dados utilizado para geração automática de indicadores.
+
+**Stack**
+
+- Python
+- SQL
+- ETL
+
+---
+
+## 🌐 Outros Projetos
+
+- Sites Responsivos
+- Landing Pages
+- JavaScript
+- React
+- HTML/CSS
+- Bootstrap
+- Vue
+
+> Alguns projetos desenvolvidos profissionalmente não podem ser publicados por questões de confidencialidade.
+
+---
+
+# 📚 Atualmente estudando
+
+- Google Project Management Professional Certificate
+- IBM Project Management
+- Power BI
+- Python
+- Engenharia de Dados
+- Gestão de Produtos
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauaftavares21&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaftavares21&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+📧 **Email**
+
+kauafernandestavares@gmail.com
+
+💼 **LinkedIn**
+
+www.linkedin.com/in/kauã-fernandes-809665252/
+
+🐙 **GitHub**
+
+github.com/kauaftavares21
+
+---
+
+## 💡 Objetivo
+
+Busco oportunidades nas áreas de:
+
+- Gestão de Projetos
+- Product Management
+- Business Intelligence
+- Dados
+- Processos
+- Tecnologia
+
+Sempre aberto a novos desafios, aprendizado contínuo e desenvolvimento de soluções que gerem impacto real.
